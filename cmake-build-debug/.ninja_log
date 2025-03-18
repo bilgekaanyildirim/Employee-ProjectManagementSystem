@@ -1,0 +1,7 @@
+# ninja log v5
+542	615	1712232337632535410	HW3	fd35761600ebbefa
+0	52	1742314992755990064	build.ninja	6ccd38b77f5cd75
+1	412	1742315039570444434	CMakeFiles/Employee-ProjectManagementSystemUsingAHybridDataStructure.dir/UndoStack.cpp.o	d290d8d0fd3ea13b
+0	415	1742315039572611978	CMakeFiles/Employee-ProjectManagementSystemUsingAHybridDataStructure.dir/main.cpp.o	aeaec66a7deec348
+1	422	1742315039580887068	CMakeFiles/Employee-ProjectManagementSystemUsingAHybridDataStructure.dir/EmployeeProject2DLL.cpp.o	57dc827eecefd325
+422	458	1742315039617689346	Employee-ProjectManagementSystemUsingAHybridDataStructure	e3e612c7f541ca6b

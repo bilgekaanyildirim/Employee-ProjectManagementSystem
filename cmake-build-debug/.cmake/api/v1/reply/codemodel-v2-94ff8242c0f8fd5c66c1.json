@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Employee-ProjectManagementSystemUsingAHybridDataStructure",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Employee-ProjectManagementSystemUsingAHybridDataStructure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Employee-ProjectManagementSystemUsingAHybridDataStructure-Debug-32c30b7e6e04eb8105e2.json",
+					"name" : "Employee-ProjectManagementSystemUsingAHybridDataStructure",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS204/HWs/HW3/Employee-ProjectManagementSystemUsingAHybridDataStructure/cmake-build-debug",
+		"source" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS204/HWs/HW3/Employee-ProjectManagementSystemUsingAHybridDataStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
