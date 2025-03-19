@@ -1,4 +1,4 @@
-# Employee-Project Management System - CS204 Homework 3
+# Employee-Project Management System
 
 This project is a **C++ implementation** of an **employee-project management system** using a **two-dimensional hybrid linked list (2DHLL)** and a **stack-based undo system**. It allows users to assign employees to projects, withdraw them, print assigned projects, and undo actions.
 
